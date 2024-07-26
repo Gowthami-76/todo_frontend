@@ -42,7 +42,7 @@ const Authenticate = () => {
     setAction("Sign Up");
     if (
       action === "Sign Up" &&
-      signup.email &&
+      signup.emailAddress &&
       signup.name &&
       signup.password
     ) {
