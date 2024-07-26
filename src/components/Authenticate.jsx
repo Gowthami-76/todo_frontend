@@ -89,7 +89,7 @@ const Authenticate = () => {
                 }`}
                 onClick={loginUser}
               >
-                Login
+                Sign In
               </button>
             </div>
           </div>
